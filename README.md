@@ -8,16 +8,12 @@ Originally authored by [Fernando Guillen][1] under the name **tmail-html-body-ex
 Usage
 -----
 
-`require "tmail_mail_extension"
-mail = TMail::Mail.parse(source)`
+    require "tmail_mail_extension"
+    
+    mail = TMail::Mail.parse(source)
 
-`mail.body_html`
-
-Returns just html if available or *nil*
-
-`mail.body_plain`
-
-Returns just plaintext if available or *nil*
+    mail.body_html   # returns just html if available or nil
+    mail.body_plain  # returns just plaintext if available or nil
 
 [1]:http://fernandoguillen.info
 [2]:http://code.google.com/p/tmail-html-body-extractor/
