@@ -1,0 +1,33 @@
+Received: by 10.151.110.18 with HTTP; Thu, 21 Aug 2008 08:11:53 -0700 (PDT)
+Message-ID: <460928180808210811s193910c8gb3c86a649dac2e15@mail.gmail.com>
+Date: Thu, 21 Aug 2008 17:11:53 +0200
+From: "Fernando Guillen" <fguillen.mail@gmail.com>
+To: fguillen.mail@gmail.com
+Subject: prueba html
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_32653_28612212.1219331513515"
+Delivered-To: fguillen.mail@gmail.com
+
+------=_Part_32653_28612212.1219331513515
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+este texto es html con *negritas*
+y una lista con:
+
+   - una cosa
+   - dos cosas
+   - tres cosas
+
+y un colorcito.
+
+------=_Part_32653_28612212.1219331513515
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<div dir=3D"ltr"><div>este texto es html con <b>negritas</b><div>
+
+------=_Part_32653_28612212.1219331513515--

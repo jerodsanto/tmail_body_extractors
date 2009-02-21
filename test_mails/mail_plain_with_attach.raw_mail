@@ -1,0 +1,26 @@
+Received: by 10.141.115.19 with HTTP; Thu, 21 Aug 2008 09:09:05 -0700 (PDT)
+Message-ID: <460928180808210909k7c1bc598qa8d95c481c8c5dde@mail.gmail.com>
+Date: Thu, 21 Aug 2008 18:09:05 +0200
+From: "Fernando Guillen" <fguillen.mail@gmail.com>
+To: fguillen.mail@gmail.com
+Subject: plain with attach
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_27692_8828657.1219334945346"
+Delivered-To: fguillen.mail@gmail.com
+
+------=_Part_27692_8828657.1219334945346
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+plain con adjunto
+
+------=_Part_27692_8828657.1219334945346
+Content-Type: text/plain; name=texto.txt
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_fk5kjb680
+Content-Disposition: attachment; filename=texto.txt
+
+aG9sYQo=
+------=_Part_27692_8828657.1219334945346--

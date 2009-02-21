@@ -1,0 +1,63 @@
+Received: by 10.151.110.18 with HTTP; Thu, 21 Aug 2008 08:34:55 -0700 (PDT)
+Message-ID: <460928180808210834y4e7a0a7cta336085396121ae3@mail.gmail.com>
+Date: Thu, 21 Aug 2008 17:34:55 +0200
+From: "Fernando Guillen" <fguillen.mail@gmail.com>
+To: fguillen.mail@gmail.com
+Subject: mail con plain and html y adjuntos plain and html
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_32988_18496652.1219332895948"
+Delivered-To: fguillen.mail@gmail.com
+
+------=_Part_32988_18496652.1219332895948
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_32989_32968363.1219332895948"
+
+------=_Part_32989_32968363.1219332895948
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+este es el html con *negritas*.
+
+------=_Part_32989_32968363.1219332895948
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+<div dir="ltr">este es el html con <b>negritas</b>.<br>
+</div>
+
+------=_Part_32989_32968363.1219332895948--
+
+------=_Part_32988_18496652.1219332895948
+Content-Type: text/html; name=422.html
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_fk5jb1vb0
+Content-Disposition: attachment; filename=422.html
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgVHJhbnNpdGlvbmFs
+Ly9FTiIKICAgICAgICJodHRwOi8vd3d3LnczLm9yZy9UUi94aHRtbDEvRFREL3hodG1sMS10cmFu
+c2l0aW9uYWwuZHRkIj4KCjxodG1sIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1s
+IiB4bWw6bGFuZz0iZW4iIGxhbmc9ImVuIj4KCjxoZWFkPgogIDxtZXRhIGh0dHAtZXF1aXY9ImNv
+bnRlbnQtdHlwZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PVVURi04IiAvPgogIDx0aXRs
+ZT5UaGUgY2hhbmdlIHlvdSB3YW50ZWQgd2FzIHJlamVjdGVkICg0MjIpPC90aXRsZT4KCTxzdHls
+ZSB0eXBlPSJ0ZXh0L2NzcyI+CgkJYm9keSB7IGJhY2tncm91bmQtY29sb3I6ICNmZmY7IGNvbG9y
+OiAjNjY2OyB0ZXh0LWFsaWduOiBjZW50ZXI7IGZvbnQtZmFtaWx5OiBhcmlhbCwgc2Fucy1zZXJp
+ZjsgfQoJCWRpdi5kaWFsb2cgewoJCQl3aWR0aDogMjVlbTsKCQkJcGFkZGluZzogMCA0ZW07CgkJ
+CW1hcmdpbjogNGVtIGF1dG8gMCBhdXRvOwoJCQlib3JkZXI6IDFweCBzb2xpZCAjY2NjOwoJCQli
+b3JkZXItcmlnaHQtY29sb3I6ICM5OTk7CgkJCWJvcmRlci1ib3R0b20tY29sb3I6ICM5OTk7CgkJ
+fQoJCWgxIHsgZm9udC1zaXplOiAxMDAlOyBjb2xvcjogI2YwMDsgbGluZS1oZWlnaHQ6IDEuNWVt
+OyB9Cgk8L3N0eWxlPgo8L2hlYWQ+Cgo8Ym9keT4KICA8IS0tIFRoaXMgZmlsZSBsaXZlcyBpbiBw
+dWJsaWMvNDIyLmh0bWwgLS0+CiAgPGRpdiBjbGFzcz0iZGlhbG9nIj4KICAgIDxoMT5UaGUgY2hh
+bmdlIHlvdSB3YW50ZWQgd2FzIHJlamVjdGVkLjwvaDE+CiAgICA8cD5NYXliZSB5b3UgdHJpZWQg
+dG8gY2hhbmdlIHNvbWV0aGluZyB5b3UgZGlkbid0IGhhdmUgYWNjZXNzIHRvLjwvcD4KICA8L2Rp
+dj4KPC9ib2R5Pgo8L2h0bWw+
+------=_Part_32988_18496652.1219332895948
+Content-Type: text/plain; name=texto.txt
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_fk5jbggc1
+Content-Disposition: attachment; filename=texto.txt
+
+aG9sYQo=
+------=_Part_32988_18496652.1219332895948--

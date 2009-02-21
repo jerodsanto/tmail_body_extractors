@@ -1,0 +1,29 @@
+Return-Path: <fguillen.mail@gmail.com>
+Received: from ?192.168.1.79? ( [80.33.215.91])
+        by mx.google.com with ESMTPS id f13sm497378gvd.10.2008.08.21.09.02.17
+        (version=TLSv1/SSLv3 cipher=RC4-MD5);
+        Thu, 21 Aug 2008 09:02:18 -0700 (PDT)
+Message-Id: <D8E1AA90-0CAA-497A-AB9F-FF85209F088C@gmail.com>
+From: Fernando Guillen <fguillen.mail@gmail.com>
+To: Fernando Guillen <fguillen.mail@gmail.com>
+Content-Type: multipart/alternative; boundary=Apple-Mail-1-509166459
+Mime-Version: 1.0 (Apple Message framework v926)
+Subject: html desde mail mac
+Date: Thu, 21 Aug 2008 18:02:14 +0200
+X-Mailer: Apple Mail (2.926)
+
+
+--Apple-Mail-1-509166459
+Content-Type: text/plain;
+	charset=US-ASCII;
+	format=flowed
+Content-Transfer-Encoding: 7bit
+
+esto es html.
+--Apple-Mail-1-509166459
+Content-Type: text/html;
+	charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+
+<html><body style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space; ">esto es <font class="Apple-style-span" color="#791381">html.</font></body></html>
+--Apple-Mail-1-509166459--
